@@ -1,4 +1,4 @@
-package com.nt.client;
+package com.nt.com.nt.client;
 
 import com.nt.bike.Bike;
 import com.nt.factory.BikeFactory;
