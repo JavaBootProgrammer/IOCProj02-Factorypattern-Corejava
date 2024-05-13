@@ -4,7 +4,7 @@ public class EletricBike implements Bike {
 
 	@Override
 	public void start() {
-		System.out.println("EletricBike(Ather):: Bike STarted");
+		System.out.println("EletricBike(Ather):: Bike Started");
 	}
 
 	@Override
