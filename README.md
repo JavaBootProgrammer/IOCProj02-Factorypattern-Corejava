@@ -153,7 +153,8 @@ ___________________
 SportsBike(KTM-Duke):: Bike STarted
 SportsBike(KTM-Duke):: Bike is in driving
 SportsBike(KTM-Duke):: Bike is stopped
-SportsBike(KTM-Duke). Bike is parked```
+SportsBike(KTM-Duke). Bike is parked
+```
 
 # UML
 
