@@ -1,7 +1,7 @@
-package com.nt.client;
+package com.vehicle.client;
 
-import com.nt.bike.Bike;
-import com.nt.factory.BikeFactory;
+import com.vehicle.bike.Bike;
+import com.vehicle.factory.BikeFactory;
 
 public class FactoryPatternTest1 {
 

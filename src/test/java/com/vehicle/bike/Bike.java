@@ -1,4 +1,4 @@
-package com.nt.bike;
+package com.vehicle.bike;
 
 public interface Bike {
 

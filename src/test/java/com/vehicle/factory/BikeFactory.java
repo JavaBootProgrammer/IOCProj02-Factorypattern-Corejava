@@ -1,10 +1,10 @@
 //BikeFactory.java (factory Pattern)
-package com.nt.factory;
+package com.vehicle.factory;
 
-import com.nt.bike.Bike;
-import com.nt.bike.EletricBike;
-import com.nt.bike.SportsBike;
-import com.nt.bike.StandardBike;
+import com.vehicle.bike.Bike;
+import com.vehicle.bike.EletricBike;
+import com.vehicle.bike.SportsBike;
+import com.vehicle.bike.StandardBike;
 
 public class BikeFactory {
 

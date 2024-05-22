@@ -46,7 +46,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.nt.client.FactoryPatternTest1</mainClass>
+					<mainClass>com.vehicle.client.FactoryPatternTest1</mainClass>
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>

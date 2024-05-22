@@ -1,7 +1,7 @@
-package com.nt.com.nt.client;
+package com.vehicle.com.nt.client;
 
-import com.nt.bike.Bike;
-import com.nt.factory.BikeFactory;
+import com.vehicle.bike.Bike;
+import com.vehicle.factory.BikeFactory;
 
 public class FactoryPatternTest1 {
 
@@ -12,7 +12,7 @@ public class FactoryPatternTest1 {
 		 
 		 System.out.println("___________________");
 		 
-		  Bike bike2=BikeFactory.getBike("sports");
+		 Bike bike2=BikeFactory.getBike("sports");
 		 bike2.start(); bike2.drive(); bike2.stop(); bike2.park();
 
 	}
